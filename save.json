@@ -1,0 +1,41 @@
+[
+    {
+        "symbol": "WIFUSDT",
+        "size": 486.7,
+        "stop_market_per": 0.01,
+        "trailing_stop_per": 0.02,
+        "trailing_stop_callback_per": 0.02,
+        "long_open_position": true,
+        "short_open_position": false,
+        "stop_market_orders_long": 3,
+        "trailing_stop_orders_long": false,
+        "stop_market_orders_short": 1,
+        "trailing_stop_orders_short": true
+    },
+    {
+        "symbol": "ZETAUSDT",
+        "size": 112.0,
+        "stop_market_per": 0.01,
+        "trailing_stop_per": 0.02,
+        "trailing_stop_callback_per": 0.02,
+        "long_open_position": true,
+        "short_open_position": true,
+        "stop_market_orders_long": 1,
+        "trailing_stop_orders_long": false,
+        "stop_market_orders_short": 2,
+        "trailing_stop_orders_short": true
+    },
+    {
+        "symbol": "API3USDT",
+        "size": 69.5,
+        "stop_market_per": 0.01,
+        "trailing_stop_per": 0.01,
+        "trailing_stop_callback_per": 0.02,
+        "long_open_position": true,
+        "short_open_position": true,
+        "stop_market_orders_long": 1,
+        "trailing_stop_orders_long": false,
+        "stop_market_orders_short": 1,
+        "trailing_stop_orders_short": true
+    }
+]
