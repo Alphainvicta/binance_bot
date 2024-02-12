@@ -6,10 +6,10 @@ numpy==1.26.4
 pandas==2.2.0
 pycryptodome==3.20.0
 python-dateutil==2.8.2
+python-dotenv==1.0.1
 pytz==2024.1
 requests==2.31.0
 six==1.16.0
-ta==0.11.0
 tzdata==2023.4
 urllib3==2.2.0
 websocket-client==1.7.0
